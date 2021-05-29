@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/home/elio/Desktop/algorithms1/1week/hello/algs4.jar"
+    ],
+    "java.dependency.packagePresentation": "hierarchical"
+}
